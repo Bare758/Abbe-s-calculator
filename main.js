@@ -29,3 +29,9 @@ function calc()
 				document.getElementById('result').value = n1*n2;
 			}		
 		}
+
+
+
+
+
+		
